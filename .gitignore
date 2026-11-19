@@ -1,0 +1,12 @@
+# IDE / build
+.idea/
+*.iml
+out/
+target/
+
+# Local DB credentials (never commit your password)
+src/main/resources/db.properties
+
+# OS
+.DS_Store
+Thumbs.db
